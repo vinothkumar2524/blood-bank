@@ -1,0 +1,16 @@
+.nav {
+    width: 100%;
+    background-color: crimson;
+    height : 30px;
+}
+.heading {
+    margin-left: 600px;
+}
+
+.nav-links {
+    margin-left: 500px;
+}
+
+.inner-data {
+    margin-left: 550px;
+}
